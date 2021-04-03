@@ -10,4 +10,4 @@ This repository uses Python3 with its inbuilt libraries. Hence, a machine with P
 - The task-wise path for every robot is printed in the terminal.
 
 ## Report 
-The report is available at [Report.pdf](https://github.com/siddhanthaldar/AIFA-Assignment-1-Multi-Agent-Path-Planning/blob/main/Report.pdf).
+The report is available at [Final_Report.pdf](https://drive.google.com/file/d/1jDJOTrtOL0b23KMjaICx3eGLEqi78o2v/view?usp=sharing).
