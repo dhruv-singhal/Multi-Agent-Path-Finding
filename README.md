@@ -1,4 +1,4 @@
-# AIFA Assignment 1 - Multi Agent Path Finding
+# Multi Agent Path Finding- AIFA IIT KGP
 
 ## Installation Guide
 This repository uses Python3 with its inbuilt libraries. Hence, a machine with Python3 should be able to run the code.
